@@ -82,19 +82,3 @@ AI/WORK
 AI/PERSONAL
 AI/URGENT
 ```
-
-## Security
-
-Never upload these files to GitHub:
-
-```text
-credentials.json
-token.json
-*.pkl
-*.csv
-```
-
-These may contain authentication information, trained models, or private email data.
-=======
-# AI-Email-Classifier-
->>>>>>> d522b9a7095f23bb993a5edfb7d043b3eacb7c0b
