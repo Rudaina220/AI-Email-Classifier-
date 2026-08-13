@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+credentials.json
+token.json
+token_collect.json
+*.pkl
+*.csv
