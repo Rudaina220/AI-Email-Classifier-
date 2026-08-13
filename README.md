@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Email Classifier
 
 An AI-powered Gmail email classifier that automatically sorts emails into:
