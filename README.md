@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Email Classifier
 
 An AI-powered Gmail email classifier that automatically sorts emails into:
@@ -95,3 +96,6 @@ token.json
 ```
 
 These may contain authentication information, trained models, or private email data.
+=======
+# AI-Email-Classifier-
+>>>>>>> d522b9a7095f23bb993a5edfb7d043b3eacb7c0b
